@@ -2,7 +2,3 @@
 코로나 자가진단 자동화 앱 입니다.
 
 (deprecated)
-
-## Description
-
-Check out [here](https://github.com/DenFade/Auto-Hcheck/releases/tag/RELEASE)!
